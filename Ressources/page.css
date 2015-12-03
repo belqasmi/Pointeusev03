@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    border: double black 10px;
+    background-image: url("exemple-fond-pour-site-internet.jpg");
+}
+
+h1{
+    border: groove 2px darkred ;
+}
+
+p{
+    text-decoration-color: #843534;
+}
